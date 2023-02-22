@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @viferraro. 
-- 👀 I’m interested in  aprender.
-- 🌱 I’m currently learning  programação  (principalmente Java, mas também Python, Javascript e C) e também a utilizar melhor o Github.
+- 👀 I’m interested in coding and deep learning.
+- 🌱 I’m currently learning  new technologies.
 - - 📫 How to reach me : (viferraro@edu.unirio.br).
 
 <!---
